@@ -1,0 +1,30 @@
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.exe
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.deps.json
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.runtimeconfig.json
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.pdb
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.AssemblyInfo.cs
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\refint\ImplementandoClasseCurso.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.pdb
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.genruntimeconfig.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\GITHUB REPOSITÓRIO REMOTO\CURSO C#\AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ref\ImplementandoClasseCurso.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.exe
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.deps.json
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.runtimeconfig.json
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\bin\Debug\net6.0\ImplementandoClasseCurso.pdb
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.AssemblyInfo.cs
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\refint\ImplementandoClasseCurso.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.pdb
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ImplementandoClasseCurso.genruntimeconfig.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\01-AULA\AULA PRATICA\ImplementandoClasseCurso\obj\Debug\net6.0\ref\ImplementandoClasseCurso.dll

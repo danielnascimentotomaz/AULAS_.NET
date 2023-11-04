@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "017-Introducao-PILHAS/1.0.0": {
+        "runtime": {
+          "017-Introducao-PILHAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "017-Introducao-PILHAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
